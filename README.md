@@ -1,2 +1,2 @@
 # Java_Exercises
-Java exercises done for OOP course
+Java exercises of OOP and software engineering courses
